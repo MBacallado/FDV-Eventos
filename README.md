@@ -1,5 +1,7 @@
 # Práctica FDV Eventos #
 
+![](gif_eventos.gif)
+
 ## Actividades a realizar:
 
 ### 1.Implementar una aproximación a la UI que hayas establecido para tu prototipo.
