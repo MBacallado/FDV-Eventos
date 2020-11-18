@@ -1,16 +1,5 @@
 # Práctica FDV Eventos #
 
-En esta actividad realizaremos pruebas con las diferentes modalidades de uso de eventos para enviar mensajes entre los objetos de la escena en Unity.
-
-En Unity se pueden definir:
-
-# Eventos de la UI
-# Eventos del sistema de eventos soportados
-# Nuestros propios eventos:
-# Sistema de mensajes  de Unity
-# Delegados, eventos C# - Patrón observador.
-
-
 ## Actividades a realizar:
 
 ### 1.Implementar una aproximación a la UI que hayas establecido para tu prototipo.
